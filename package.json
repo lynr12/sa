@@ -1,0 +1,31 @@
+{
+  "name": "discordjs-14",
+  "version": "5.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Emirhan Saraç",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.3.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^5.0.1",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^14.0.1",
+    "express": "^4.18.1",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "lowdb": "^7.0.1",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^9.1.7"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
